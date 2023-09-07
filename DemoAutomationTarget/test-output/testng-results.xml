@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="10" passed="10" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-09-06T10:40:31 CDT" name="All Test Suite" finished-at="2023-09-06T10:42:02 CDT" duration-ms="90483">
+    <groups>
+    </groups>
+    <test started-at="2023-09-06T10:40:31 CDT" name="/Users/geethachandrasekaran/IdeaProjects/     DemoAutomationTarget/src/main/java/BaseClassPackage/BaseClass.java" finished-at="2023-09-06T10:42:02 CDT" duration-ms="90483">
+      <class name="TestClassPackage.SignInPageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:TestClassPackage.SignInPageTest@258e2e41]" started-at="2023-09-06T10:41:27 CDT" name="setup" finished-at="2023-09-06T10:41:34 CDT" duration-ms="7094" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="TestVerifySignIn1()[pri:0, instance:TestClassPackage.SignInPageTest@258e2e41]" started-at="2023-09-06T10:41:34 CDT" name="TestVerifySignIn1" finished-at="2023-09-06T10:41:35 CDT" duration-ms="1000" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestVerifySignIn1 -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:TestClassPackage.SignInPageTest@258e2e41]" started-at="2023-09-06T10:41:35 CDT" name="teardown" finished-at="2023-09-06T10:41:35 CDT" duration-ms="112" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- TestClassPackage.SignInPageTest -->
+      <class name="TestClassPackage.LandingPageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:TestClassPackage.LandingPageTest@3d299e3]" started-at="2023-09-06T10:41:35 CDT" name="setup" finished-at="2023-09-06T10:41:43 CDT" duration-ms="7968" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="TestVerifySignInAfterSignOut()[pri:0, instance:TestClassPackage.LandingPageTest@3d299e3]" started-at="2023-09-06T10:41:43 CDT" name="TestVerifySignInAfterSignOut" finished-at="2023-09-06T10:41:49 CDT" duration-ms="5580" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestVerifySignInAfterSignOut -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:TestClassPackage.LandingPageTest@3d299e3]" started-at="2023-09-06T10:41:49 CDT" name="teardown" finished-at="2023-09-06T10:41:49 CDT" duration-ms="118" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:TestClassPackage.LandingPageTest@3d299e3]" started-at="2023-09-06T10:41:49 CDT" name="setup" finished-at="2023-09-06T10:41:57 CDT" duration-ms="8484" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="TestVerifySignOut()[pri:0, instance:TestClassPackage.LandingPageTest@3d299e3]" started-at="2023-09-06T10:41:57 CDT" name="TestVerifySignOut" finished-at="2023-09-06T10:42:02 CDT" duration-ms="4275" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestVerifySignOut -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:TestClassPackage.LandingPageTest@3d299e3]" started-at="2023-09-06T10:42:02 CDT" name="teardown" finished-at="2023-09-06T10:42:02 CDT" duration-ms="123" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- TestClassPackage.LandingPageTest -->
+      <class name="TestClassPackage.HomePageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:TestClassPackage.HomePageTest@105fece7]" started-at="2023-09-06T10:40:31 CDT" name="setup" finished-at="2023-09-06T10:40:40 CDT" duration-ms="8726" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="TestHomePageTitle()[pri:1, instance:TestClassPackage.HomePageTest@105fece7]" started-at="2023-09-06T10:40:40 CDT" name="TestHomePageTitle" finished-at="2023-09-06T10:40:40 CDT" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestHomePageTitle -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:TestClassPackage.HomePageTest@105fece7]" started-at="2023-09-06T10:40:40 CDT" name="teardown" finished-at="2023-09-06T10:40:40 CDT" duration-ms="116" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:TestClassPackage.HomePageTest@105fece7]" started-at="2023-09-06T10:40:40 CDT" name="setup" finished-at="2023-09-06T10:40:45 CDT" duration-ms="5169" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="TestHomePageRegistry()[pri:2, instance:TestClassPackage.HomePageTest@105fece7]" started-at="2023-09-06T10:40:45 CDT" name="TestHomePageRegistry" finished-at="2023-09-06T10:40:46 CDT" duration-ms="926" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestHomePageRegistry -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:TestClassPackage.HomePageTest@105fece7]" started-at="2023-09-06T10:40:46 CDT" name="teardown" finished-at="2023-09-06T10:40:46 CDT" duration-ms="119" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:TestClassPackage.HomePageTest@105fece7]" started-at="2023-09-06T10:40:46 CDT" name="setup" finished-at="2023-09-06T10:40:52 CDT" duration-ms="5404" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="TestHomePageWeeklyAd()[pri:3, instance:TestClassPackage.HomePageTest@105fece7]" started-at="2023-09-06T10:40:52 CDT" name="TestHomePageWeeklyAd" finished-at="2023-09-06T10:40:53 CDT" duration-ms="913" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestHomePageWeeklyAd -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:TestClassPackage.HomePageTest@105fece7]" started-at="2023-09-06T10:40:53 CDT" name="teardown" finished-at="2023-09-06T10:40:53 CDT" duration-ms="122" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:TestClassPackage.HomePageTest@105fece7]" started-at="2023-09-06T10:40:53 CDT" name="setup" finished-at="2023-09-06T10:40:59 CDT" duration-ms="5866" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="TestHomePageRedCard()[pri:4, instance:TestClassPackage.HomePageTest@105fece7]" started-at="2023-09-06T10:40:59 CDT" name="TestHomePageRedCard" finished-at="2023-09-06T10:40:59 CDT" duration-ms="165" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestHomePageRedCard -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:TestClassPackage.HomePageTest@105fece7]" started-at="2023-09-06T10:40:59 CDT" name="teardown" finished-at="2023-09-06T10:40:59 CDT" duration-ms="129" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:TestClassPackage.HomePageTest@105fece7]" started-at="2023-09-06T10:40:59 CDT" name="setup" finished-at="2023-09-06T10:41:05 CDT" duration-ms="6227" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="TestHomePageTargetCircle()[pri:5, instance:TestClassPackage.HomePageTest@105fece7]" started-at="2023-09-06T10:41:05 CDT" name="TestHomePageTargetCircle" finished-at="2023-09-06T10:41:05 CDT" duration-ms="64" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestHomePageTargetCircle -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:TestClassPackage.HomePageTest@105fece7]" started-at="2023-09-06T10:41:05 CDT" name="teardown" finished-at="2023-09-06T10:41:05 CDT" duration-ms="127" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:TestClassPackage.HomePageTest@105fece7]" started-at="2023-09-06T10:41:05 CDT" name="setup" finished-at="2023-09-06T10:41:13 CDT" duration-ms="8027" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="TestHomePageFindStores()[pri:6, instance:TestClassPackage.HomePageTest@105fece7]" started-at="2023-09-06T10:41:13 CDT" name="TestHomePageFindStores" finished-at="2023-09-06T10:41:15 CDT" duration-ms="1284" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestHomePageFindStores -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:TestClassPackage.HomePageTest@105fece7]" started-at="2023-09-06T10:41:15 CDT" name="teardown" finished-at="2023-09-06T10:41:15 CDT" duration-ms="121" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:TestClassPackage.HomePageTest@105fece7]" started-at="2023-09-06T10:41:15 CDT" name="setup" finished-at="2023-09-06T10:41:26 CDT" duration-ms="11109" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="TestHomePageSignIn()[pri:7, instance:TestClassPackage.HomePageTest@105fece7]" started-at="2023-09-06T10:41:26 CDT" name="TestHomePageSignIn" finished-at="2023-09-06T10:41:27 CDT" duration-ms="939" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestHomePageSignIn -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:TestClassPackage.HomePageTest@105fece7]" started-at="2023-09-06T10:41:27 CDT" name="teardown" finished-at="2023-09-06T10:41:27 CDT" duration-ms="118" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- TestClassPackage.HomePageTest -->
+    </test> <!-- /Users/geethachandrasekaran/IdeaProjects/     DemoAutomationTarget/src/main/java/BaseClassPackage/BaseClass.java -->
+  </suite> <!-- All Test Suite -->
+</testng-results>
